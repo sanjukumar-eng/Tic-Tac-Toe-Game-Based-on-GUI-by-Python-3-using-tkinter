@@ -1,0 +1,2 @@
+# Tic-Tac-Toe-Game-Based-on-GUI-by-Python-3-using-tkinter
+The Entire Code is Developed by sanjukumar-eng. This Code is Developed in Python 3. This Code is a Type of Software Code(Game Software). And Based on GUI using Library called tkinter in Python. I Defined a Class called TTT and whole Functions Which are used in making the Software are in class TTT and the Fuctions are Like:- __init__()-Constructor Function, load_window()-GUI Function, frame(), winnercheck(), btnclick(), disablebutton(), restart(), clear(). 
